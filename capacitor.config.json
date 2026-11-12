@@ -1,7 +1,6 @@
 {
-  "appId": "com.yourname.gallery",
+  "appId": "com.anshul.gallery",
   "appName": "Gallery",
   "webDir": "www",
-  "android": { "allowMixedContent": false },
   "backgroundColor": "#000000"
 }
